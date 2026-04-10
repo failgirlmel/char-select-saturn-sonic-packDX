@@ -1,7 +1,7 @@
 # char-select-saturn-sonic-packDX
 Introducing... SEGA SATURN A mod pack includes Sonic and his friends with a Saturn twist
 
-#Credits
+# Credits
 @failgirlmel_ ~ Main Project Lead - 3D Model Handler
 
 @OneCalledRPG ~ Assembly - Additional Support
