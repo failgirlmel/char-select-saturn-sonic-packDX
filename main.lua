@@ -570,19 +570,17 @@ if _G.charSelectExists then
 
 
     ------ VOICE HOOK DATA
-     _G.charSelect.character_add_voice(E_MODEL_SATURN_SONIC, VOICETABLE_SONIC)
-     _G.charSelect.character_add_voice(E_MODEL_SATURN_TAILS, VOICETABLE_TAILS)
-     _G.charSelect.character_add_voice(E_MODEL_SATURN_KNUX, VOICETABLE_KNUX)
-     _G.charSelect.character_add_voice(E_MODEL_SATURN_AMY, VOICETABLE_AMY)
-     _G.charSelect.character_add_voice(E_MODEL_MIGHTY, VOICETABLE_MIGHTY)
-     _G.charSelect.character_add_voice(E_MODEL_RAY, VOICETABLE_RAY)
-     _G.charSelect.character_add_voice(E_MODEL_TRIP, VOICETABLE_TRIP)
-     _G.charSelect.character_add_voice(E_MODEL_TRIP_A, VOICETABLE_TRIPA)
-     _G.charSelect.character_add_voice(E_MODEL_METALSONIC, VOICETABLE_METALSONIC)
-     _G.charSelect.character_add_voice(E_MODEL_STRINGY_SONIC, VOICETABLE_STRINGY_SONIC)
-     _G.charSelect.character_add_voice(E_MODEL_US_SONIC, VOICETABLE_US_SONIC)
-
-    charSelect.config_character_sounds()
+     charSelect.character_add_voice(E_MODEL_SATURN_SONIC, VOICETABLE_SONIC)
+     charSelect.character_add_voice(E_MODEL_SATURN_TAILS, VOICETABLE_TAILS)
+     charSelect.character_add_voice(E_MODEL_SATURN_KNUX, VOICETABLE_KNUX)
+     charSelect.character_add_voice(E_MODEL_SATURN_AMY, VOICETABLE_AMY)
+     charSelect.character_add_voice(E_MODEL_MIGHTY, VOICETABLE_MIGHTY)
+     charSelect.character_add_voice(E_MODEL_RAY, VOICETABLE_RAY)
+     charSelect.character_add_voice(E_MODEL_TRIP, VOICETABLE_TRIP)
+     charSelect.character_add_voice(E_MODEL_TRIP_A, VOICETABLE_TRIPA)
+     charSelect.character_add_voice(E_MODEL_METALSONIC, VOICETABLE_METALSONIC)
+     charSelect.character_add_voice(E_MODEL_STRINGY_SONIC, VOICETABLE_STRINGY_SONIC)
+     charSelect.character_add_voice(E_MODEL_US_SONIC, VOICETABLE_US_SONIC)
 
     
     ------ ANIM DATA
